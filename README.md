@@ -183,11 +183,30 @@ def activate_emergency_protocol(threat_level):
 
 ### 🔗 OFFICIAL CHANNELS (VERIFIED ACCESS ONLY)
 
-| Platform     | Access Link                                          | Verification Required |
-| ------------ | ---------------------------------------------------- | --------------------- |
-| **Telegram** | [Telegram](https://t.me/sharpnovateam)     | Yes                   |
-| **GitHub**   | [github](https://github.com/sharpnova) | Yes                   |
-| **Darknet**  | Provided upon clearance                              | Yes                   |
+<table>
+  <tr>
+    <td>🛡️ <strong>Telegram</strong></td>
+    <td>
+      <a href="https://t.me/sharpnovateam" target="_blank">
+        <img src="https://img.shields.io/badge/Join%20on-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Link">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>💻 <strong>GitHub</strong></td>
+    <td>
+      <a href="https://github.com/sharpnova" target="_blank">
+        <img src="https://img.shields.io/badge/Explore-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>🌐 <strong>Darknet</strong></td>
+    <td>
+      <span style="font-style: italic; color: gray;">Provided upon clearance</span>
+    </td>
+  </tr>
+</table>
 
 ---
 
