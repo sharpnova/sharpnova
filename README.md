@@ -1,60 +1,19 @@
 <div align="center">
-
-<style>
-  .typewriter-wrapper {
-    display: inline-block;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 24px;
-    color: #00ffcc;
-    white-space: nowrap;
-    overflow: hidden;
-    border-right: 3px solid #00ffcc;
-    animation: blink-caret 0.75s step-end infinite;
-  }
-
-  @keyframes blink-caret {
-    50% { border-color: transparent; }
-  }
-
-  .char {
-    display: inline-block;
-    opacity: 0;
-    animation: type-char 0.4s forwards;
-  }
-
-  .char:nth-child(1) { animation-delay: 0.2s; }
-  .char:nth-child(2) { animation-delay: 0.4s; }
-  .char:nth-child(3) { animation-delay: 0.6s; }
-  .char:nth-child(4) { animation-delay: 0.8s; }
-  .char:nth-child(5) { animation-delay: 1.0s; }
-  .char:nth-child(6) { animation-delay: 1.2s; }
-  .char:nth-child(7) { animation-delay: 1.4s; }
-  .char:nth-child(8) { animation-delay: 1.6s; }
-  .char:nth-child(9) { animation-delay: 1.8s; }
-
-  @keyframes type-char {
-    from { opacity: 0; transform: translateY(-10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-</style>
-
-<div class="typewriter-wrapper">
-  <span class="char">S</span>
-  <span class="char">h</span>
-  <span class="char">a</span>
-  <span class="char">r</span>
-  <span class="char">p</span>
-  <span class="char">N</span>
-  <span class="char">o</span>
-  <span class="char">v</span>
-  <span class="char">a</span>
-</div>
+  
+<pre style="font-family: 'Courier New', Courier, monospace; font-size: 18px; line-height: 1.4;">
+ _______  __    _  _______  _______  _______  __   __  _______  __   __   _______  __    _  _______  _______ 
+|       ||  |  | ||       ||       ||       ||  | |  ||       ||  | |  | |       ||  |  | ||       ||       |
+|    ___||   |_| ||   _   ||  _____||_     _||  |_|  ||   _   ||  |_|  | |    ___||   |_| ||  _____||    ___|
+|   |___ |       ||  | |  || |_____   |   |  |       ||  | |  ||       | |   |___ |       || |_____ |   |___ 
+|    ___||  _    ||  |_|  ||_____  |  |   |  |       ||  |_|  ||       | |    ___||  _    ||_____  ||    ___|
+|   |___ | | |   ||       | _____| |  |   |  |   _   ||       ||   _   | |   |___ | | |   | _____| ||   |___ 
+|_______||_|  |__||_______||_______|  |___|  |__| |__||_______||__| |__| |_______||_|  |__||_______||_______|
+</pre>
 
 <p><em>"Where shadows speak in encrypted whispers, we are the silent guardians of the digital frontier."</em></p>
 <p>— Director of Operations, SharpNova</p>
 
 </div>
-
 
 > _"Where shadows speak in encrypted whispers, we are the silent guardians of the digital frontier."_  
 > — Director of Operations, SharpNova
