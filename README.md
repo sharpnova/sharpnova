@@ -185,8 +185,8 @@ def activate_emergency_protocol(threat_level):
 
 | Platform     | Access Link                                          | Verification Required |
 | ------------ | ---------------------------------------------------- | --------------------- |
-| **Telegram** | [t.me/sharpnovateam](https://t.me/sharpnovateam)     | Yes                   |
-| **GitHub**   | [github.com/sharpnova](https://github.com/sharpnova) | Yes                   |
+| **Telegram** | [Telegram](https://t.me/sharpnovateam)     | Yes                   |
+| **GitHub**   | [github](https://github.com/sharpnova) | Yes                   |
 | **Darknet**  | Provided upon clearance                              | Yes                   |
 
 ---
