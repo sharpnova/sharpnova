@@ -1,22 +1,14 @@
 <div align="center">
-  
-<pre style="font-family: 'Courier New', Courier, monospace; font-size: 18px; line-height: 1.4;">
- _______  __    _  _______  _______  _______  __   __  _______  __   __   _______  __    _  _______  _______ 
-|       ||  |  | ||       ||       ||       ||  | |  ||       ||  | |  | |       ||  |  | ||       ||       |
-|    ___||   |_| ||   _   ||  _____||_     _||  |_|  ||   _   ||  |_|  | |    ___||   |_| ||  _____||    ___|
-|   |___ |       ||  | |  || |_____   |   |  |       ||  | |  ||       | |   |___ |       || |_____ |   |___ 
-|    ___||  _    ||  |_|  ||_____  |  |   |  |       ||  |_|  ||       | |    ___||  _    ||_____  ||    ___|
-|   |___ | | |   ||       | _____| |  |   |  |   _   ||       ||   _   | |   |___ | | |   | _____| ||   |___ 
-|_______||_|  |__||_______||_______|  |___|  |__| |__||_______||__| |__| |_______||_|  |__||_______||_______|
-</pre>
 
-<p><em>"Where shadows speak in encrypted whispers, we are the silent guardians of the digital frontier."</em></p>
-<p>— Director of Operations, SharpNova</p>
+ 
+👾  SHARPNOVA CYBERSECURITY INITIATIVE 👾
 
-</div>
-
-> _"Where shadows speak in encrypted whispers, we are the silent guardians of the digital frontier."_  
-> — Director of Operations, SharpNova
+  <i>
+  "Where shadows speak in encrypted whispers, we are the silent guardians of the digital frontier."
+  </i>  
+  <br>  
+  — Director of Operations, SharpNova 
+</div>  
 
 ---
 
